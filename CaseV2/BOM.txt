@@ -1,5 +1,9 @@
 ~~ WORK IN PROGRESS ~~
-
+7x Snek acrylic layers
+1x Snack60 PCB
 6x 15mm M3 spacer
 12 x 6mm M3 screw
 2x 5mm spacer (M2 for now, depending on trackpad)
+Reform Trackpad - https://shop.mntmn.com/products/mnt-reform-capacitive-trackpad-module
+Adafruit Feather nRF52840 Express - https://www.adafruit.com/product/4062
+3.7v 400 mAh Li-battery; 5x25x35 - https://www.monotaro.com/p/6069/0026/?utm_id=g_pla&utm_medium=cpc&utm_source=Adwords&utm_campaign=246-833-4061_6466659573&utm_content=77481173956&utm_term=_380615429419__pla-888444747107&gclid=CjwKCAjwo4mIBhBsEiwAKgzXOCyHrRmkG_5QHrBMEjySNAiD3PfCmBwUXz6i1lQculgH4VeO6iLuahoC0LkQAvD_BwE
